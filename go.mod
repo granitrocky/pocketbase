@@ -1,4 +1,4 @@
-module github.com/pocketbase/pocketbase
+module github.com/granitrocky/pocketbase
 
 go 1.18
 
@@ -17,6 +17,7 @@ require (
 	github.com/labstack/echo/v5 v5.0.0-20220201181537-ed2888cfa198
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/pocketbase/dbx v1.8.0
+	github.com/pocketbase/pocketbase v0.10.4
 	github.com/spf13/cast v1.5.0
 	github.com/spf13/cobra v1.6.1
 	gocloud.dev v0.27.0
